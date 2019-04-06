@@ -22,6 +22,10 @@ Though Lichtenberg figures can be made in a variety of materials, the ones made 
 
 3. During the burning process, some kind of chemical reaction occurs that produces a material with higher conductivity that sticks around permanently.
 
-###### Basic inverse-square-law, no-vertex-collisions-allowed, simple exponential temperature-decay, all-repulsion single-sided prototype
+## Basic inverse-square-law, no-vertex-collisions-allowed, simple exponential temperature-decay, all-repulsion single-sided prototype
 
 All in all, the above ideas led me to create a pretty simple first-revision simulation. There are *numerous* differences between it and the physical reality - that is to say, it's more art than physics. It's also horribly computationally inefficient (runs in ~O(n^5) time) Nonetheless, it *does* produce very pretty pictures :)
+
+[Here is a graphviz-simulated example of it growing, 250 iterations at a time](https://i.imgur.com/veGcDOj.gif)
+
+[I've also brought the data into Blender to see them another way](https://i.imgur.com/Wk7p90Q.png)
