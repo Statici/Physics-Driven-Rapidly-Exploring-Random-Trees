@@ -1,4 +1,4 @@
-## Physics-Driven Randomly Exploring Random Trees
+# Physics-Driven Randomly Exploring Random Trees
 
 A collection of physics-based [rapidly exploring random trees (RRTs).](https://en.wikipedia.org/wiki/Rapidly-exploring_random_tree)
 
@@ -22,6 +22,6 @@ Though Lichtenberg figures can be made in a variety of materials, the ones made 
 
 3. During the burning process, some kind of chemical reaction occurs that produces a material with higher conductivity that sticks around permanently.
 
-# Basic inverse-square-law, no-vertex-collisions-allowed, simple exponential temperature-decay, all-repulsion single-sided prototype
+###### Basic inverse-square-law, no-vertex-collisions-allowed, simple exponential temperature-decay, all-repulsion single-sided prototype
 
 All in all, the above ideas led me to create a pretty simple first-revision simulation. There are *numerous* differences between it and the physical reality - that is to say, it's more art than physics. Nonetheless, it *does* produce very pretty pictures :)
