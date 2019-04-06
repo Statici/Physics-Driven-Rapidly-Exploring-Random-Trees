@@ -24,4 +24,4 @@ Though Lichtenberg figures can be made in a variety of materials, the ones made 
 
 ###### Basic inverse-square-law, no-vertex-collisions-allowed, simple exponential temperature-decay, all-repulsion single-sided prototype
 
-All in all, the above ideas led me to create a pretty simple first-revision simulation. There are *numerous* differences between it and the physical reality - that is to say, it's more art than physics. Nonetheless, it *does* produce very pretty pictures :)
+All in all, the above ideas led me to create a pretty simple first-revision simulation. There are *numerous* differences between it and the physical reality - that is to say, it's more art than physics. It's also horribly computationally inefficient (runs in ~O(n^5) time) Nonetheless, it *does* produce very pretty pictures :)
