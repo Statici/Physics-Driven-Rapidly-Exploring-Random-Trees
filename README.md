@@ -1,4 +1,4 @@
-###### Physics-Driven Randomly Exploring Random Trees
+## Physics-Driven Randomly Exploring Random Trees
 
 A collection of physics-based [rapidly exploring random trees (RRTs).](https://en.wikipedia.org/wiki/Rapidly-exploring_random_tree)
 
